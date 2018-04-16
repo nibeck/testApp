@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_lon_loctestapp.testtable_user</name>
+        <suffix>testtable_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>mnib@loc.gov</sys_created_by>
+        <sys_created_on>2018-04-16 16:38:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6e9cd8c9db69d30088e176721f961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_lon_loctestapp.testtable_user</sys_name>
+        <sys_package display_value="LOCTestApp" source="x_lon_loctestapp">9d3a1c09db69d30088e176721f9619c0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="LOCTestApp">9d3a1c09db69d30088e176721f9619c0</sys_scope>
+        <sys_update_name>sys_user_role_6e9cd8c9db69d30088e176721f961948</sys_update_name>
+        <sys_updated_by>mnib@loc.gov</sys_updated_by>
+        <sys_updated_on>2018-04-16 16:38:04</sys_updated_on>
+    </sys_user_role>
+</record_update>
